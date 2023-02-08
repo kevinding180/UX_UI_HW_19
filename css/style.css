@@ -132,3 +132,8 @@ footer li {
   width: auto;
   height: 45px;
   }
+
+  .responses {
+    width: 200%; 
+    height: auto;
+  }  
