@@ -127,3 +127,8 @@ footer li {
   max-width: 100%;
   height: auto;
 }
+
+.response {
+  width: auto;
+  height: 45px;
+  }
